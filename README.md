@@ -1,1 +1,1 @@
-# login-auth-api
+# Estudos sobre autenticação de login utilizando SPRING SECURITY + JWT.
